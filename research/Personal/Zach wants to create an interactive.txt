@@ -1,0 +1,25 @@
+I want to create an interactive 3D desktop application, called "Umgebung," with the goal of simulating reality.
+The challenge with this is that I am searching for the absolute, ultimate truth; Not what the mainstream media has been brainwashing us to believe is the "truth."
+This means learning everything I can from "fringe" thinkers, extraterrestrial contactees, supernatural experiencers, etc., and modeling the information within an object-oriented framework.
+This would include topics like Consciousness, Soul, Creation, Vibrational Density, but also Quantum Mechanics, Classical Mechanics and such.
+
+I will be utilizing NVIDIA's PhysX (CUDA accelerated), CUDA, multithreading, and any libraries or dependencies that could help me with this project.
+
+This project will only support Windows as the OS (Windows 10/11), and NVIDIA GPUs.
+ 
+The individuals I have in mind to learn and reference from currently are including but not limited to:
+
+Alex Collier (https://alexcollier.org)
+Elena Danaan (https://elenadanaan.org)
+Dani Henderson (https://galacticspiritualinformers.com)
+Nassim Haramein (https://nassimharamein.com/)
+Chris Essonne (https://www.gsjournal.net/Science-Journals-Papers/Author/2334/Chris,%20Essonne)
+Dan Willis (https://thewebmatrix.net)
+Tony Rodrigues (https://tonyrodrigues.com)
+
+The scale I am imagining is going to present a challenge.
+
+1 Multiverse
+	100^100 Universes
+		200 Billion - 3000 Trillion Galaxies per Universe
+			300 Billion Stars per Galaxy
